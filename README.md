@@ -1,7 +1,7 @@
-## <p align="center">🌟 Hello Hacker  👩‍💻 </p>
+## <p align="center">🌟 Hello 👩‍💻 </p>
 
 > ## I'm Deepesh Agrawal
-> Hello there! I'm , a passionate and experienced developer with a strong background in MERN stack. I love creating innovative solutions and pushing the boundaries of what is possible
+>  I'm , a dedicated and skilled developer with extensive expertise in the MERN stack and currently specializing in Next.js.I love creating innovative solutions and pushing the boundaries of what is possible
 
 <div align="center" display="flex">
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=Deepesh76780&show_icons=true&theme=transparent&hide_border=true" />
